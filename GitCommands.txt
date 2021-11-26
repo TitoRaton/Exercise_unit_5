@@ -1,0 +1,49 @@
+
+Student: Antonio Conesa García
+
+https://github.com/TitoRaton/Exercise_unit_5
+
+
+Git Commands
+
+Step 5
+
+- Create folder and enter: c:/Proyecto
+
+- Clone the repository: git clone https://github.com/TitoRaton/Exercise_unit_5
+
+- Move to folder: C:\Users\anton\Proyecto\Exercise_unit_5
+
+- Edit the archive with notepad.
+
+- The archive it´s modify.
+
+- Make the commit: git commit -a -m "Commit with step 5"
+
+- upload the modified archive: git push
+
+Step 6
+
+- Create folder and enter: c:/Proyecto
+
+- Add the archive: git add ejercicioComandosGit.cs
+
+- Edit the archive with notepad.
+
+- Make the commit: git commit -a -m "Commit with step 6"
+
+- Upload the modified archive: git push
+
+
+
+ATTENTION!!!
+I did the practice in Spanish for first step and I awake of this mistake the same day of delivery.
+I must to change exercises texts but not the archive names.
+
+Sorry and greetings.
+ 
+
+ 
+
+
+
