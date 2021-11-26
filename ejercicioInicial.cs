@@ -2,8 +2,8 @@
  *
  *   Autor: Antonio Conesa
  *
- *   Programa que sirve para realizar el ejercicio de entornos
- *   de desarrollo. Este ejercicio estará modificado.
+ *   Program that it use for the development environment´s practise.
+ *   This Program wiil be modified for add a new tag in repository.
  *
  */
 
@@ -15,11 +15,13 @@ class EjercicioInicial
    {
       Console.WriteLine("**************************************************");
       Console.WriteLine("**                                              **");
-      Console.WriteLine("**            Entornos de desarrollo            **");
+      Console.WriteLine("**           development environment            **");
       Console.WriteLine("**                                              **");
-      Console.WriteLine("**   Este es el ejercicio inicial modificado    **");
+      Console.WriteLine("**    This exercise was originally modified     **");
       Console.WriteLine("**                                              **");
-      Console.WriteLine("**            - Archivo modificado -            **");
+	  Console.WriteLine("**    a second time for write it in english     **");
+	  Console.WriteLine("**                                              **");
+      Console.WriteLine("**            - Archive modified -              **");
       Console.WriteLine("**                                              **");
       Console.WriteLine("**************************************************");
    }
