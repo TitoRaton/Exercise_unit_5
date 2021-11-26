@@ -2,8 +2,7 @@
  *
  *   Autor: Antonio Conesa 
  *
- *   Programa que sirve para realizar el ejercicio de entornos
- *   de desarrollo. Este ejercicio será el apartado 5.
+ *   Program that add some message to screen. This is the point 5 of practice.
  *
  */
 
@@ -15,11 +14,11 @@ class EjercicioInicial
    {
       Console.WriteLine("**************************************************");
       Console.WriteLine("**                                              **");
-      Console.WriteLine("**            Entornos de desarrollo            **");
+      Console.WriteLine("**           Environment development            **");
       Console.WriteLine("**                                              **");
-      Console.WriteLine("**   Este el ejercicio modificado para punto 5  **");
+      Console.WriteLine("**This archive is changed like point 5 exigences**");
       Console.WriteLine("**                                              **");
-      Console.WriteLine("**        - Archivo modificado de nuevo -       **");
+      Console.WriteLine("**          - Archive modified again -          **");
       Console.WriteLine("**                                              **");
       Console.WriteLine("**************************************************");
    }
