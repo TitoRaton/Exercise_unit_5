@@ -2,8 +2,8 @@
  *
  *   Autor: Antonio Conesa
  *
- *   Este es el programa que se tiene que modificar con los
- *   comandos Git y pertenece al punto 6 de la práctica.
+ *   This program must be modify with Git commands
+ *   and it´s integrated in point 6 of practise.
  *
  */
 
@@ -15,11 +15,11 @@ class ProgramaRelleno
    {
       Console.WriteLine("**************************************************");
       Console.WriteLine("**                                              **");
-      Console.WriteLine("**           Entornos de desarrollo             **");
+      Console.WriteLine("**           Development environments           **");
       Console.WriteLine("**                                              **");
-      Console.WriteLine("**        Programa subido con comandos Git      **");
+      Console.WriteLine("**      Program uploaded with Git Commands      **");
       Console.WriteLine("**                                              **");
-      Console.WriteLine("**      ejercicio modificado para punto 6       **");
+      Console.WriteLine("**        Exercise modified for point 6         **");
       Console.WriteLine("**                                              **");
       Console.WriteLine("**************************************************");
    }
