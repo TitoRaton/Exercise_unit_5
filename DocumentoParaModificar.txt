@@ -1,0 +1,6 @@
+
+---------- Development Environment ----------------------
+
+This is a random document for modify only.
+
+When the change happen, I add a new line with a welcome´s message.
