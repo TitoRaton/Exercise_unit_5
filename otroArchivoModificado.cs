@@ -1,25 +1,25 @@
 /*
  *
- *   Autor: Antonio Conesa
+ *   Autor: Antonio Conesa 
  *
- *   Este es el programa que se tiene que modificar con los
- *   comandos Git y pertenece al punto 6 de la práctica.
+ *   Programa que sirve para realizar el ejercicio de entornos
+ *   de desarrollo. Este ejercicio será el apartado 5.
  *
  */
 
 using System;
 
-class ProgramaRelleno
+class EjercicioInicial
 {
    static void Main()
    {
       Console.WriteLine("**************************************************");
       Console.WriteLine("**                                              **");
-      Console.WriteLine("**           Entornos de desarrollo             **");
+      Console.WriteLine("**            Entornos de desarrollo            **");
       Console.WriteLine("**                                              **");
-      Console.WriteLine("**        Programa subido con comandos Git      **");
+      Console.WriteLine("**   Este el ejercicio modificado para punto 5  **");
       Console.WriteLine("**                                              **");
-      Console.WriteLine("**      ejercicio modificado para punto 6       **");
+      Console.WriteLine("**        - Archivo modificado de nuevo -       **");
       Console.WriteLine("**                                              **");
       Console.WriteLine("**************************************************");
    }
