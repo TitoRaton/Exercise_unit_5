@@ -3,7 +3,7 @@
  *   Autor: Antonio Conesa
  *
  *   Este es el programa que se tiene que modificar con los
- *   comandos Git
+ *   comandos Git y pertenece al punto 6 de la práctica.
  *
  */
 
@@ -17,9 +17,9 @@ class ProgramaRelleno
       Console.WriteLine("**                                              **");
       Console.WriteLine("**           Entornos de desarrollo             **");
       Console.WriteLine("**                                              **");
-      Console.WriteLine("**        Programa Inicial con comandos         **");
+      Console.WriteLine("**        Programa subido con comandos Git      **");
       Console.WriteLine("**                                              **");
-      Console.WriteLine("**         - ejercicio sin modificar -          **");
+      Console.WriteLine("**      ejercicio modificado para punto 6       **");
       Console.WriteLine("**                                              **");
       Console.WriteLine("**************************************************");
    }
