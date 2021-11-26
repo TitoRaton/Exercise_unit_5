@@ -18,17 +18,27 @@ Step 5
 
 - The archive it´s modify.
 
+- Test the modification: git status
+
+- Add the modified archive: git add otroArchivoModificado.cs 
+
 - Make the commit: git commit -a -m "Commit with step 5"
 
 - upload the modified archive: git push
 
-Step 6
+Step 6 
 
-- Create folder and enter: c:/Proyecto
+- Local repository is existing already.
 
-- Add the archive: git add ejercicioComandosGit.cs
+- Move to folder: C:\Users\anton\Proyecto\Exercise_unit_5
+
+- Add the archive: git add ejercicioComandosGit.cs            // We need included in local repository because is new
 
 - Edit the archive with notepad.
+
+- Test the modification: git status
+
+- Add the modified archive: git add ejercicioComandosGit.cs
 
 - Make the commit: git commit -a -m "Commit with step 6"
 
@@ -41,9 +51,3 @@ I did the practice in Spanish for first step and I awake of this mistake the sam
 I must to change exercises texts but not the archive names.
 
 Sorry and greetings.
- 
-
- 
-
-
-
