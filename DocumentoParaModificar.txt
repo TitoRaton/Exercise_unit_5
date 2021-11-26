@@ -3,6 +3,7 @@
 
 This is a random document for modify only.
 
-When the change happen, I add a new line with a welcome´s message.
+When the changes happen, I add a new line with a welcome´s message.
 
+This document is writen some time for problems with the idiom.
 You´re welcome. This is a modification of original text.
